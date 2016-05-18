@@ -12,5 +12,9 @@
 # 설치
     npm -g cute-alpaca
 
-#사용
-    alpaca 알파카
+# 사용
+    alpaca
+
+또는
+
+    alpaca ㅁㅁㅁ
