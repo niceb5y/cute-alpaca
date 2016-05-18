@@ -1,6 +1,6 @@
 {
   "name": "cute-alpaca",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "대신귀여운알파카를드리겠습니다",
   "main": "index.js",
   "scripts": {
